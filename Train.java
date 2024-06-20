@@ -1,3 +1,6 @@
+//JAVA PROGRAM ON ONLINE RESERVATION SYSTEM USING DATABASE (MySQL). 
+
+
 import java.sql.*;
 import java.util.Random;
 import java.util.Scanner;
